@@ -9,8 +9,8 @@ Futuro Desenvolvedor Web focado em criar soluções práticas e inovadoras!
 - 🤝 Buscando oportunidades de networking e focado em conquistar minha primeira vaga de **Estágio** na área de programação para me desenvolver!
 
 ## 🛠️ Tecnologias em Estudo
-**-Javascript;**
-**-HTML5;**
+**-Javascript,**
+**-HTML5,**
 **-CSS3.**
 
 ## 🌐 Conecte-se comigo
