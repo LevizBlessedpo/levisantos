@@ -12,6 +12,8 @@ Futuro Desenvolvedor Web focado em criar soluções práticas e inovadoras!
 **-Javascript,**
 **-HTML5,**
 **-CSS3.**
+**-Git.**
+**-Github.**
 
 ## 🌐 Conecte-se comigo
 - https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android
