@@ -14,6 +14,8 @@ Futuro Desenvolvedor Web focado em criar soluções práticas e inovadoras!
 **-CSS3.**
 **-Git.**
 **-Github.**
+**-Termux ("imitador de terminais de Sistemas Operacionais Linux no mobile).**
+**-Acode.**
 
 ## 🌐 Conecte-se comigo
 - https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android
