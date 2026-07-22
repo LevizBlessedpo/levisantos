@@ -16,6 +16,7 @@ Futuro Desenvolvedor Web focado em criar soluções práticas e inovadoras!
 - **GitHub**
 - **Termux** (ambiente Linux CLI linha de comando, 100% mobile).
 - **Acode** (ambiente de desenvolvimento, IDE 100% mobile).
+- **Nodejs** (Utilizando pelo Termux).
 
 
 ## 🌐 Conecte-se comigo
